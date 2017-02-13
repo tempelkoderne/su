@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{809A2845-8692-44AD-AE34-E72334B10FF9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Exercise1 Status">
     <Files>
-      <File FileName="FizzBuzz/Buzzer.cs" Line="27" Column="1" />
-      <File FileName="FizzBuzz/Program.cs" Line="26" Column="63" />
+      <File FileName="yo/Program.cs" Line="37" Column="2" />
+      <File FileName="FizzBuzz/Program.cs" Line="37" Column="2" />
       <File FileName="Exercise1 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -11,5 +11,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
