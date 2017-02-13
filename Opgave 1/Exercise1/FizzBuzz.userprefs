@@ -1,21 +1,22 @@
 ﻿<Properties StartupConfiguration="{809A2845-8692-44AD-AE34-E72334B10FF9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz/Buzzer.cs">
     <Files>
-      <File FileName="FizzBuzz/Program.cs" Line="31" Column="1" />
+      <File FileName="FizzBuzz/Program.cs" Line="3" Column="18" />
+      <File FileName="FizzBuzz/Buzzer.cs" Line="6" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Exercise1" expanded="True">
-            <Node name="FizzBuzz" expanded="True">
-              <Node name="Program.cs" selected="True" />
+          <Node name="FizzBuzz" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="Buzzer.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="Exercise1" expanded="True" selected="True" />
+          <Node name="FizzBuzz" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
