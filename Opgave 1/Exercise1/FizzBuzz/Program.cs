@@ -30,8 +30,6 @@ namespace FizzBuzz
 			Tester.Test(Buzzer.Buzz(0) == "Fizz", false, "is 0 Fizz?");
 
 			Console.WriteLine("The tests were a great, great {0}!", Tester.State);
-
-			Console.WriteLine("{0}", 0 % 15);
 		}
 	}
 }

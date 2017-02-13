@@ -10,3 +10,5 @@
 /Users/anders1991/Google Drive/Københavns Universitet/Datalogi/Tempelkoderne/su/Opgave 1/Exercise1/FizzBuzz/bin/Debug/FizzBuzz.exe
 /Users/anders1991/Google Drive/Københavns Universitet/Datalogi/Tempelkoderne/su/Opgave 1/Exercise1/FizzBuzz/bin/Debug/yo.dll
 /Users/anders1991/Google Drive/Københavns Universitet/Datalogi/Tempelkoderne/su/Opgave 1/Exercise1/FizzBuzz/bin/Debug/yo.dll.mdb
+/Users/anders1991/Google Drive/Københavns Universitet/Datalogi/Tempelkoderne/su/Opgave 1/Exercise1/FizzBuzz/bin/Debug/Library.dll
+/Users/anders1991/Google Drive/Københavns Universitet/Datalogi/Tempelkoderne/su/Opgave 1/Exercise1/FizzBuzz/bin/Debug/Library.dll.mdb
