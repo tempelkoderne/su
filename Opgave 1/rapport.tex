@@ -1,0 +1,42 @@
+% Compile via terminal med: $ pdflatex -shell-escape filnavn.tex
+
+\documentclass[a4paper]{article}
+
+\usepackage{su17}
+\usepackage{minted}
+
+\header{%
+  assignment={Exercise Set 1: Unit Testing},%
+  authors={Anders, Peter og Tobias},%
+% shortAuthors={\texttt{knuth}},%
+date={Friday, February 17, 15:00}%
+}
+
+\begin{document}
+
+\maketitle
+
+% Kode eksempel.
+\begin{minted}
+{csharp}
+
+class MyClass : BaseClass
+{
+    public int myVariable
+    {
+        // all rules have exceptions
+        get { return myVariable; }
+    }
+
+    public void MyFunc(int a, int b)
+    {
+        for (int i = 0; i < 15; i++)
+        {
+            ...
+        }
+    }
+}
+
+\end{minted}
+
+\end{document}
