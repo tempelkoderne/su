@@ -11,6 +11,9 @@ namespace FizzBuzz
 				var fizz = Buzzer.Buzz(i);
 				Console.WriteLine(fizz);
 			}
+			var Tester = new Tester();
+			Tester.Test(Buzzer.Buzz(40) == "FizzBuzz", false, "testtest");
+			Console.WriteLine("The tests were a great {0}!", Tester.State);
 		}
 	}
 }
