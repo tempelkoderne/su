@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{809A2845-8692-44AD-AE34-E72334B10FF9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Exercise1 Status">
     <Files>
-      <File FileName="yo/Program.cs" Line="37" Column="2" />
+      <File FileName="yo/Program.cs" Line="1" Column="1" />
       <File FileName="FizzBuzz/Program.cs" Line="37" Column="2" />
       <File FileName="Exercise1 Status" />
     </Files>
