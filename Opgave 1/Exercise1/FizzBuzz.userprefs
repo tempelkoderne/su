@@ -5,12 +5,14 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tests\Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise1 Status">
     <Files>
       <File FileName="FizzBuzz\Program.cs" Line="38" Column="1" />
       <File FileName="Library\Buzzer.cs" Line="26" Column="2" />
       <File FileName="Library\Tester.cs" Line="27" Column="2" />
       <File FileName="Tests\Test.cs" Line="1" Column="1" />
+      <File FileName="Tests\packages.config" Line="1" Column="1" />
+      <File FileName="Exercise1 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
 </Properties>
