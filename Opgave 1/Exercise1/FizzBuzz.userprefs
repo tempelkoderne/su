@@ -1,10 +1,17 @@
-﻿<Properties StartupConfiguration="{809A2845-8692-44AD-AE34-E72334B10FF9}|Default">
+<Properties StartupConfiguration="{809A2845-8692-44AD-AE34-E72334B10FF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz/Program.cs">
+    <Files>
+      <File FileName="FizzBuzz/Program.cs" Line="36" Column="16" />
+      <File FileName="Library/Buzzer.cs" Line="26" Column="2" />
+      <File FileName="Library/Tester.cs" Line="27" Column="2" />
+      <File FileName="Tests/Test.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+<<<<<<< Updated upstream
   <MonoDevelop.Ide.Workbench ActiveDocument="Exercise1 Status">
     <Files>
       <File FileName="FizzBuzz\Program.cs" Line="38" Column="1" />
@@ -15,4 +22,8 @@
       <File FileName="Exercise1 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+=======
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+>>>>>>> Stashed changes
 </Properties>
