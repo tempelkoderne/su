@@ -29,7 +29,10 @@ namespace FizzBuzz
 			Tester.Test(Buzzer.Buzz(8) == "Fizz", false, "is 8 Fizz?");
 			Tester.Test(Buzzer.Buzz(0) == "Fizz", false, "is 0 Fizz?");
 
-			Console.WriteLine("The tests were a great, great {0}!", Tester.State);
+			Tester.Test(Buzzer.Buzz(43) == "43", true, "is 43 43?");
+			Tester.Test(Buzzer.Buzz(500000002) == "500000002", true, "is 500000002 500000002?");
+
+			Console.WriteLine("\nThe tests were a great, great {0}!", Tester.State);
 		}
 	}
 }
