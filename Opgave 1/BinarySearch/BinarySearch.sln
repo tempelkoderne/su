@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUI", "TUI\TUI.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{957C0FA4-8343-4557-A672-F87F920EB99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}.Debug|x86.Build.0 = Debug|Any CPU
 		{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}.Release|x86.ActiveCfg = Release|Any CPU
 		{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}.Release|x86.Build.0 = Release|Any CPU
+		{957C0FA4-8343-4557-A672-F87F920EB99B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{957C0FA4-8343-4557-A672-F87F920EB99B}.Debug|x86.Build.0 = Debug|Any CPU
+		{957C0FA4-8343-4557-A672-F87F920EB99B}.Release|x86.ActiveCfg = Release|Any CPU
+		{957C0FA4-8343-4557-A672-F87F920EB99B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0

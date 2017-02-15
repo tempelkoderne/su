@@ -35,6 +35,7 @@ namespace TUI
             TestArray (gen.NextArray(10, 10));
             TestArray (gen.NextArray(10, 10));
             TestArray (gen.NextArray(10, 10));
+            System.Console.ReadKey();
         }
     }
 }
