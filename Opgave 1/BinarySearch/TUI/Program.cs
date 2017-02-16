@@ -17,6 +17,7 @@ namespace TUI
             for (int i = 0; i <= 11; i++)
             {
                 int result = Search.Binary (array, i);
+                Console.WriteLine ("Counter:" + Library.ComparisonCountedInt.CountComparisons); // Er det her den der counter ting skal være fra opgave 5.13???
                 if (result == -1)
                 {
                     Console.WriteLine ("{0} was not found.", i);
@@ -25,7 +26,9 @@ namespace TUI
                 {
                     Console.WriteLine ("{0} was found in index {1}.", i, result);
                 }
+
             }
+
         }
 
         public static void Main (string[] args)
@@ -35,7 +38,10 @@ namespace TUI
             TestArray (gen.NextArray(10, 10));
             TestArray (gen.NextArray(10, 10));
             TestArray (gen.NextArray(10, 10));
+            TestArray (gen.NextArray (10, 10));
             //TestArray (gen.NextArray (2147483647, 10));
+            //Er det ikke underligt at den leder efter 10 og 11 men at 
+            //generatoren aldrig laver de tal?
 
         }
     }

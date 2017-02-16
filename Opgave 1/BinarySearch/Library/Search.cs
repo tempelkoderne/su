@@ -14,7 +14,7 @@ namespace Library
                 int mid = low + (high - low) / 2;
                 IComparable midVal = array[mid];
                 int relation = midVal.CompareTo (target);
-
+                ComparisonCountedInt.CountComparisons++;// Er det her den der counter ting skal være fra opgave 5.13???
                 if (relation < 0)
                 {
                     low = mid + 1;
