@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library\ComparisonCountedInt.cs">
+    <Files>
+      <File FileName="Library\Search.cs" Line="1" Column="1" />
+      <File FileName="Library\Show.cs" Line="1" Column="1" />
+      <File FileName="Library\Generator.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Desktop\BinarySearch-v1\BinarySearch\Library\ComparisonCountedInt.cs" Line="1" Column="1" />
+      <File FileName="Library\ComparisonCountedInt.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
