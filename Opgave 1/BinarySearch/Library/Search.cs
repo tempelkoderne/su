@@ -11,7 +11,7 @@ namespace Library
 
             while (low <= high)
             {
-                int mid = (high + low) / 2;
+                int mid = low + (high - low) / 2;
                 IComparable midVal = array[mid];
                 int relation = midVal.CompareTo (target);
 
