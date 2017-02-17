@@ -9,6 +9,7 @@ namespace Tests
     {
         Generator gen = new Generator ();
 
+
         [Test ()]
         public void TestTooLow ()
         {
@@ -40,6 +41,15 @@ namespace Tests
             }
         }
 
+        //Test for 4.6
+        [Test ()]
+        public void TestDuplicates() 
+        {
+            IComparable [] arr = new IComparable [5] { 0, 1, 2, 4, 4 };
+            Assert.AreNotEqual (Search.Binary (arr, 4), 3, "TestElement1");
+        }
+
+        //Test for binary search
         [Test ()]
         public void TestBin ()
         {
@@ -52,6 +62,8 @@ namespace Tests
             }
 
         }
+
+        //Test for linear search
         [Test ()]
         public void TestLin ()
         {
@@ -63,7 +75,9 @@ namespace Tests
             }
 
         }
-         [Test ()]
+
+        //Test for linear search vs binary search: 5.14
+        [Test ()]
         public void TestLinvsBin ()
         {
             for (int i = 1; i <= 100; i++) {
