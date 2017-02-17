@@ -5,7 +5,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.TUI PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TUI\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library\EmptyClass.cs">
     <Files>
       <File FileName="Library\Search.cs" Line="17" Column="17" />
       <File FileName="Library\Show.cs" Line="1" Column="1" />
@@ -15,6 +15,7 @@
       <File FileName="Tests\Test.cs" Line="1" Column="1" />
       <File FileName="TUI\Program.cs" Line="36" Column="13" />
       <File FileName="Tests\packages.config" Line="1" Column="1" />
+      <File FileName="Library\EmptyClass.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
 </Properties>
