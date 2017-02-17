@@ -8,13 +8,16 @@ namespace Library
         {
             // Checks if the target is lesser or greater than the smallest
             // and greatest value in the array.
-            IComparable first = array [0];
-            IComparable last = array [(array.Length - 1)];
-            if ((target.CompareTo (first) < 0) || (target.CompareTo (last) > 0))
+            if (array.Length > 0)
             {
-                Console.WriteLine ("Target is lesser or greater than " +
-                                    "the first or last element in the array.");
+                IComparable first = array [0];
+                IComparable last = array [(array.Length - 1)];
+                if ((target.CompareTo (first) < 0) || (target.CompareTo (last) > 0)) {
+                    Console.WriteLine ("Target is lesser or greater than " +
+                                       "the first or last element in the array.");
+                }
             }
+
             int low = 0;
             int high = array.Length - 1;
 

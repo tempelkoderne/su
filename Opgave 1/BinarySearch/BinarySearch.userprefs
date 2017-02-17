@@ -1,20 +1,8 @@
 ﻿<Properties StartupConfiguration="{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.TUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearch Status">
     <Files>
-      <File FileName="Library\Search.cs" Line="24" Column="50" />
-      <File FileName="Library\Show.cs" Line="1" Column="1" />
-      <File FileName="Library\Generator.cs" Line="41" Column="13" />
-      <File FileName="..\..\..\..\..\Desktop\BinarySearch-v1\BinarySearch\Library\ComparisonCountedInt.cs" Line="1" Column="1" />
-      <File FileName="Library\ComparisonCountedInt.cs" Line="14" Column="9" />
-      <File FileName="Tests\Test.cs" Line="72" Column="29" />
-      <File FileName="TUI\Program.cs" Line="28" Column="18" />
-      <File FileName="Tests\packages.config" Line="1" Column="1" />
+      <File FileName="Tests/Test.cs" Line="52" Column="33" />
+      <File FileName="Library/Search.cs" Line="20" Column="13" />
       <File FileName="BinarySearch Status" />
     </Files>
     <Pads>
@@ -25,4 +13,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TUI PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -46,7 +46,7 @@ namespace Tests
         public void TestDuplicates() 
         {
             IComparable [] arr = new IComparable [5] { 0, 1, 2, 4, 4 };
-            Assert.AreNotEqual (Search.Binary (arr, 4), 3, "TestElement1");
+            Assert.AreNotEqual (Search.Binary (arr, 4), 4, "TestElement1");
         }
 
         //Test for binary search
